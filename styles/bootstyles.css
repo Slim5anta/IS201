@@ -1,0 +1,31 @@
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px #555555;
+    padding-left: 100px;
+    padding-top: 20px;
+    background-color: rgb(71, 125, 224);
+    color: rgb(0, 0, 0);
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    left: 75px;
+    right: 75px;
+    padding-right: 5px;
+    padding-top: 20px;
+}
+
+.subheader {
+    float: right;
+    padding-right: 150px;
+    padding-top: 5px;
+}
