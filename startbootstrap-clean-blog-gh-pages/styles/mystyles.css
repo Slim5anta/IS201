@@ -1,0 +1,31 @@
+.justify {
+    text-align: justify;
+}
+
+.ResumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.anchor {
+    text-align: center;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(71, 125, 224);
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+a:visited {
+    color: rgb(0, 0, 0);
+}
